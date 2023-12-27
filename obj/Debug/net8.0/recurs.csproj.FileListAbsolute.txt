@@ -1,0 +1,14 @@
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\bin\Debug\net8.0\recurs.exe
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\bin\Debug\net8.0\recurs.deps.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\bin\Debug\net8.0\recurs.runtimeconfig.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\bin\Debug\net8.0\recurs.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\bin\Debug\net8.0\recurs.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\obj\Debug\net8.0\recurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\obj\Debug\net8.0\recurs.AssemblyInfoInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\obj\Debug\net8.0\recurs.AssemblyInfo.cs
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\obj\Debug\net8.0\recurs.csproj.CoreCompileInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\obj\Debug\net8.0\recurs.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\obj\Debug\net8.0\refint\recurs.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\obj\Debug\net8.0\recurs.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\obj\Debug\net8.0\recurs.genruntimeconfig.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\recurs\obj\Debug\net8.0\ref\recurs.dll
